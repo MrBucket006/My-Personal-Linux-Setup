@@ -1,11 +1,16 @@
 ##Ibrahima's Setup
 
 
-sudo pacman -Sy brighnessctl steam discord libreoffice-fresh brave-nightly-bin microsoft-edge-beta-bin jdk11-openjdk jdk8-openjdk htop dotnet-sdk dotnet-runtime python python-wheel pyhton-pip 
+sudo pacman -Sy brighnessctl neovim steam discord libreoffice-fresh brave-nightly-bin microsoft-edge-beta-bin jdk11-openjdk jdk8-openjdk htop dotnet-sdk dotnet-runtime python python-wheel pyhton-pip 
 
 
-yay -Sy unrar vim-airline vim-jad vim-nerdtree vim-syntastic vim-vital 
+yay -Sy unrar 
+
 
 ##amdgpu https://wiki.archlinux.org/title/AMDGPU (Also refer to html in Discord)
+
 ##get Vundle for vim
+##vim-airline vim-jad vim-nerdtree vim-syntastic vim-vital vim-fugitive vim-jedi 
+
+
 ##Get Gamemode for Linux, Heroic Game Launcher
