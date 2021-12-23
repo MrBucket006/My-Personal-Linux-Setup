@@ -6,6 +6,6 @@ sudo pacman -Sy brighnessctl steam discord libreoffice-fresh brave-nightly-bin m
 
 yay -Sy unrar vim-airline vim-jad vim-nerdtree vim-syntastic vim-vital 
 
-##amd drivers (Refer to html in Discord)
+##amdgpu (Refer to html in Discord)
 ##get Vundle for vim
 ##Get Gamemode for Linux, Heroic Game Launcher
