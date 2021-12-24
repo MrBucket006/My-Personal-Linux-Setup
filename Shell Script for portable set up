@@ -1,7 +1,8 @@
 ##Ibrahima's Setup
 
 
-sudo pacman -Sy brighnessctl neovim steam discord libreoffice-fresh brave-nightly-bin microsoft-edge-beta-bin jdk11-openjdk jdk8-openjdk htop dotnet-sdk dotnet-runtime python python-wheel pyhton-pip 
+sudo pacman -Sy brighnessctl neovim steam discord libreoffice-fresh brave-nightly-bin microsoft-edge-beta-bin jdk11-openjdk jdk8-openjdk htop dotnet-sdk dotnet-runtime python python-wheel python-pip pipewire pipewire-alsa pipewire-alsa pipewire-jack pipewire-pulse
+
 
 
 yay -Sy unrar 
