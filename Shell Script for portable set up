@@ -5,7 +5,7 @@ sudo pacman -Sy brighnessctl neovim steam discord libreoffice-fresh brave-nightl
 
 
 
-yay -Sy unrar 
+yay -Sy unrar visual-studio-code-bin
 
 
 ##amdgpu https://wiki.archlinux.org/title/AMDGPU (Also refer to html in Discord)
