@@ -1,15 +1,16 @@
 ##Ibrahima's Setup
 
 
-sudo pacman -Sy brighnessctl neovim steam discord libreoffice-fresh brave-nightly-bin microsoft-edge-beta-bin jdk11-openjdk jdk8-openjdk htop dotnet-sdk dotnet-runtime dotnet-targeting-pack dotnet-sdk-3.1 dotnet-runtime-3.1 dotnet-targeting-pack-3.1 grub-customizer python python-wheel python-pip pipewire pipewire-alsa pipewire-alsa pipewire-jack pipewire-pulse
+sudo pacman -Sy brighnessctl steam discord libreoffice-fresh brave-nightly-bin microsoft-edge-beta-bin jdk11-openjdk jdk8-openjdk htop dotnet-sdk dotnet-runtime dotnet-targeting-pack dotnet-sdk-3.1 dotnet-runtime-3.1 dotnet-targeting-pack-3.1 grub-customizer python python-wheel python-pip neofetch 
+
+##Optional
+##Get pipewire pipewire-alsa pipewire-alsa pipewire-jack pipewire-pulse
 
 
-
-yay -Sy unrar visual-studio-code-bin
+yay -Sy unrar visual-studio-code-bin protonup noisetorch 
 
 
 ##amdgpu https://wiki.archlinux.org/title/AMDGPU (Also refer to html in Discord)
-
 
 
 ##Get Gamemode for Linux, Heroic Game Launcher
