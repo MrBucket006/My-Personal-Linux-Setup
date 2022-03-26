@@ -7,7 +7,7 @@ sudo pacman -Sy brighnessctl steam discord libreoffice-fresh  pipewire pipewire-
 ##Get 
 
 
-yay -S unrar visual-studio-code-bin protonup noisetorch brave-nightly-bin microsoft-edge-beta-bin --needed
+yay -Sy unrar visual-studio-code-bin protonup noisetorch brave-nightly-bin microsoft-edge-beta-bin --needed
 
 
 ##amdgpu https://wiki.archlinux.org/title/AMDGPU (Also refer to html in Discord)
