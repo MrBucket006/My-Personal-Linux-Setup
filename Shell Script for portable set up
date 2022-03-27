@@ -1,12 +1,18 @@
 ##Ibrahima's Setup
 
 
-sudo pacman -Sy brighnessctl libreoffice-fresh  pipewire pipewire-alsa pipewire-alsa pipewire-jack pipewire-pulse jdk11-openjdk jdk8-openjdk htop dotnet-sdk dotnet-runtime dotnet-targeting-pack dotnet-sdk-3.1 dotnet-runtime-3.1 dotnet-targeting-pack-3.1 grub-customizer python python-wheel python-pip neofetch game-devices-udev --needed
+sudo pacman -Sy libreoffice-fresh pipewire pipewire-alsa pipewire-alsa pipewire-jack pipewire-pulse htop grub-customizer python python-wheel python-pip neofetch game-devices-udev --needed
+
+sudo pacman -Sy dotnet-sdk dotnet-runtime dotnet-targeting-pack dotnet-sdk-3.1 dotnet-runtime-3.1 dotnet-targeting-pack-3.1
+
+sudo pacman -Sy jdk11-openjdk jdk8-openjdk
 
 sudo pacman -Sy steam
+
 sudo pacman -Sy discord
+
 ##Optional
-##Get 
+##Get brightnessctl
 
 
 yay -Sy unrar visual-studio-code-bin protonup noisetorch brave-nightly-bin microsoft-edge-beta-bin --needed
