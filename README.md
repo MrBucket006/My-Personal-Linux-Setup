@@ -1,0 +1,1 @@
+This is the script that I would use whenever I install Linux just to make the process of get all of the programs and features I want on my OS easier to obtain versus having to search it up everytime or remember all of the terminal commands.
